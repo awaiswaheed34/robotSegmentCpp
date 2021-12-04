@@ -1,0 +1,6 @@
+three classes 2dpoint , segment , rebort 
+given start point for segmenet and angle and length 
+calculate end point as below 
+	xx = x + (d * cos(alpha))
+	yy = y + (d * sin(alpha))
+	angle in radian = angle in degree * Pi / 180
